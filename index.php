@@ -23,6 +23,7 @@
         <option value="" disabled selected>Choose your gender</option>
         <option value="male">Male</option>
         <option value="female">Female</option>
+         <option value="LGBTQ+">LGBTQ+</option>                                
         <option value="other">Other</option>
       </select>
 

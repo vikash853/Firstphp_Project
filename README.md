@@ -1,4 +1,4 @@
-# Augurs Travels — Summer Vacation Registration
+#  Travels — Summer Vacation Registration
 
 A PHP + MySQL registration form for Augurs Technologies.
 

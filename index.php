@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Summer Vacation — Augurs Travels</title>
+  <title>Summer Vacation — Form</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
 
     <h1>Augurs Technologies</h1>
-    <h2>Welcome to Augurs Travels — Summer Vacation</h2>
+    <h2>Welcome to Summer Vacation</h2>
     
 
     <form action="index.php" method="POST">
